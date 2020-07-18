@@ -4,7 +4,7 @@ Promise-based abtraction over xmlrpc api for Odoo 10. [Web Service API documenta
 
 ## Usage
 
-`npm install git+ssh://git@github.com:Monsterbilligt/node-odoo-client#v0.0.1`
+`npm install Monsterbilligt/node-odoo-client#v0.0.1`
 
 ```js
 const { createClient } = require('node-odoo-client')
